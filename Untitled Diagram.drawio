@@ -1,1 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T03:22:13.012Z" agent="5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1" etag="P65ENXJMIoHgDtbFz0J2" version="14.9.2" type="github"><diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">7Zxdb+I4FIZ/DbejOB9OuARaOlp1tCux0l6bxA2eCTEyppT59WsnNiRxp2IKYweUXljJ8Udi++mb4xOHUTBbvz0xtFl9oxkuRr6XvY2Ch5HvQ88TqTQcagOAAagtOSOZsp0MC/ITK6OqmO9IhretgpzSgpNN25jSssQpb9kQY3TfLvZCi/ZVNyjHhmGRosK0/kcyvlJWAMenjK+Y5Ct16cSP64wlSn/kjO5Kdb2SlrjOWSPdjOrjdoUyum+YgsdRMGOU8vpo/TbDhRxWPWJ1vfkvco+3zHDJz6oQh1Fd5xUVO9VxdWv8oEcCZ2Jg1GnVmWBadQ/LVjxx9n233nQKrPi6EGdAHB47KYsWaImL6XGEZrSg7FRryxHjEzl5HducFIVqAZeZLpEWaLslaW1UReQVv2POD4ootONUmCjjK5rTEhXPlG70nXFGf2B9DyM/8OfRNJ4dc/S8B8LyQks+R2tSSJ6/4uIVc5IilaGuBaA6bzYZhGH0IJvcoJSUubBG4sycKTV5W7pjKT5Oj4JNjEGOdcEYhrVVTkyjsprjJ0zXmLODKMBwgTh5bRON1D9Gfix3IkQcKEh+CQwcgLk5YGLgEJh4AObmgIGeQ2CSAZibAyYKrg1MVVUMKzo0CmwoKfm20fI/0iAKKLcz0OAqrzMMvQ58dYsnFI+3di6dY4NOMDP4PMEoJ3W/IhwvxGDL3L1wly+gsYlHy9giQ4D3HkOfJWZe/Qk7KkheSswFI5jpiqrfwEAKsVS1GouzDWZEjDVmi2Mh/yPuXjHj+O1DmlRuOI5a0x4k3hdl2Td890jBsWq47bF3Dc3SLX9as4Btzfq0ID0mEQz9zwtS+AFebXq6bHWoXno4wPB84dIS1REu6O5JF4GBmhulJnJIjT9Qc6PUOFy36ztqUDNdPAvD86Ln3gvWEFw85Yb38jEDtrwX4Zh0vJfoXO8FXsd7CQ02/l1hygje9pyNFy/BCbDMhmeRDdhGI/JCy2iY8eEnwgcq3FIBQseCYQaB/0J7NGDRK7HwI9tiMYR6G7QAOB5XGP5x5/VMp1RPcifUe/XI3W8AM4R6bxAY3yEwZvR1AKb3wDh8+wjNwOzfLEcl+SmuRMueeyxygrOrTGdPl77dwH0Unx24v47LAs0Q7EyMhexRv9GA4XKJbURFrDmvHRRgZBsFM6463WVSxwYSnL7NiwG0TIIZK52IR/FhS/oeD7s7FnznqmDGRkdi+iZApuNJlYY9p2LuJbEXWaCiL26E79mm5J1ttJKMWKZTr0pDfQxGibb3m5uXCL2IJfr9qEnXxwDANifD7tn3dKk361el5J31q8OX/fCdkKoUlnklI7WwPFZp0LDU6ayRPlS50+p4LNqrDiaN6n1/ht2dFhlLX9tSNMReb1CKYodSZMZeFzhfi27cQijt7vSjuzKy7svEl+55HQTEgYCM3QlIbMZa9VJa+CZ+w3N5MBZMni5TeTH9lhrgI7S85+V2bGy3j76E48afVRkyw7aPr1h9JdJjSiBIobz23e5GSeKOg+tb3o4Sm2Hc33tA3c5GaeBPJlMrT58rb5TWz4TO96q+w6eUGfD9hjPS981tdy8nwPPaehIGtvXk0t9KGPTElZ44/PAiNkO+iw0tt5TJQRhEpV+iElh3Ui7dMzuIiitRcfjlaPxO8Fa+FkiqBbVeVtdh/klovBl4UC8hB/Xp1QrJD22Lz6XbaQfxcSU+iSXxEaen3yOrfzHj9HtvweP/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-25T03:24:55.740Z" agent="5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1" etag="B0XfT2wHfaBWZplTKror" version="14.9.2" type="github">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="450" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1745" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1764" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1746" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1771" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1748" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1753" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1749" value="1C" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="495" y="380.5" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1750" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1753" target="1756" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1751" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1753" target="1755" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1753" value="BSL LS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="215" y="385.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1755" value="Git" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="14" y="385.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4fuAE4y-QZAW_cgAlRqN-1780" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1756" target="4fuAE4y-QZAW_cgAlRqN-1779">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1756" value="Jawa" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="65" y="254.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1764" value="СКД" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="495" y="200.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1765" value="Задача" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="695" y="110.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1766" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1765" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1767" value="Программный код" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="495" y="50.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1768" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1767" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1771" value="Стандарты" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="795" y="385.4999999999999" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1778" value="ИТС Франч" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="875" y="244.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1779" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1778" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fuAE4y-QZAW_cgAlRqN-1779" value="JawaRush" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=14;fontColor=#FFFFFF;fontStyle=0;strokeColor=none;strokeWidth=3;fillColor=#f08e81;spacing=5;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="120" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
